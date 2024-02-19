@@ -12,7 +12,3 @@ It is a food ordering website. Do give it a try for good experience.
 
 Frontend: HTML/CSS/ Javascript
 
-# Quick Start
-
-just copy code and download the image 😂😂
-and add to ur Vs code easyyyyy
